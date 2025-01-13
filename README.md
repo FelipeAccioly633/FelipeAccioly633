@@ -29,6 +29,7 @@
 
 ###
 
-<p align="left">JOÃO GUILHERME (MEU BUDDY NO INTELI)<br><br>Sou o João Guilherme e terei o prazer de ser o buddy do Luiz Felipe no Inteli. Estarei ao lado dele em cada passo, oferecendo todo o suporte necessário para que sua adaptação e crescimento sejam tranquilos e enriquecedores. Meu objetivo é garantir que ele se sinta acolhido, confiante e motivado para aproveitar ao máximo essa jornada.</p>
+<p align="left">JOÃO GUILHERME (MEU BUDDY NO INTELI)<br><br>Sou o João Guilherme e terei o prazer de ser o buddy do Luiz Felipe no Inteli. Estarei ao lado dele em cada passo, oferecendo todo o suporte necessário para que sua adaptação e crescimento sejam tranquilos e enriquecedores. Meu objetivo é garantir que ele se sinta acolhido, confiante e motivado para aproveitar ao máximo essa jornada. (https://github.com/JoaoGuilhermeSalomao)</p>
 
 ###
+
